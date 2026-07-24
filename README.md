@@ -8,12 +8,19 @@
 
 # Breno Alvarenga
 
-Backend developer focused on secure SaaS infrastructure, authentication
-systems and database internals.
+Software engineer focused on backend architecture, cloud infrastructure
+and production-oriented software quality.
 
-I build backend services and study the layers beneath them — from storage
-and compilation to computer architecture.
+I build secure SaaS services and applied AI integrations while studying
+the layers beneath modern applications, from databases and compilers to
+computer architecture.
 
-**Stack** · Java · Spring Boot · PostgreSQL · Redis · Docker · SQL
+**Backend** · Java · Spring Boot · REST APIs · PostgreSQL · Redis · SQL
 
-**Selected links** · [AuthKit](https://github.com/brenomega/authkit) · [Database Prototype](https://github.com/brenomega/database-prototype) · [GitHub](https://github.com/brenomega) · LinkedIn: `LINKEDIN_URL`
+**Cloud & delivery** · Docker · Kubernetes · Linux · CI/CD · GitHub Actions · Observability
+
+**Security & quality** · OAuth2/OIDC · Authentication · Authorization · Automated Testing · Testcontainers
+
+**Applied AI** · LLM Integrations · AI-assisted Workflows · Retrieval-Augmented Generation
+
+**Selected links** · [LinkedIn](https://www.linkedin.com/in/brenoalvarengaalves/)
