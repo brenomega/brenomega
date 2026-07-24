@@ -1,0 +1,232 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 1600 500"
+  preserveAspectRatio="xMidYMid meet"
+  role="img"
+  aria-labelledby="computing-layers-title computing-layers-desc"
+  focusable="false"
+>
+  <title id="computing-layers-title">Computing layers from machine to services</title>
+  <desc id="computing-layers-desc">
+    A continuous signal crosses five abstraction layers from left to right:
+    machine architecture represented by MIC-1 Prototype, language processing
+    represented by COOL Compiler, data storage represented by Database
+    Prototype, identity represented by AuthKit, and an open services layer.
+  </desc>
+
+  <style>
+    text {
+      font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace;
+    }
+
+    path,
+    line,
+    rect,
+    circle,
+    polygon {
+      vector-effect: non-scaling-stroke;
+    }
+  </style>
+
+  <rect width="1600" height="500" fill="#121517"/>
+
+  <g
+    id="continuous-flow"
+    fill="none"
+    stroke="#E8E3D9"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  >
+    <path
+      d="M72 250H116M180 250H208M264 250H304M368 250H416M448 250H512M544 250H608M608 250H692M812 250H946M946 250H1026M1054 250H1090M1130 250H1242M1242 250H1308L1382 214L1454 270L1528 232"
+      stroke-width="3"
+      opacity=".66"
+    />
+  </g>
+
+  <g id="layer-machine" aria-label="Machine layer, MIC-1 Prototype">
+    <text
+      x="208"
+      y="82"
+      fill="#E8E3D9"
+      font-size="38"
+      font-weight="600"
+      letter-spacing="4"
+      text-anchor="middle"
+    >MACHINE</text>
+
+    <g fill="none" stroke="#E8E3D9" stroke-width="3">
+      <rect x="116" y="224" width="64" height="52" rx="4"/>
+      <polygon points="208,250 236,222 264,250 236,278"/>
+      <rect x="304" y="224" width="64" height="52" rx="4"/>
+    </g>
+    <circle cx="236" cy="250" r="5" fill="#C39A61"/>
+
+    <text
+      x="208"
+      y="403"
+      fill="#E8E3D9"
+      font-size="38"
+      opacity=".68"
+      text-anchor="middle"
+    >MIC-1</text>
+    <text
+      x="208"
+      y="445"
+      fill="#E8E3D9"
+      font-size="38"
+      opacity=".68"
+      text-anchor="middle"
+    >Prototype</text>
+  </g>
+
+  <g id="layer-language" aria-label="Language layer, COOL Compiler">
+    <text
+      x="512"
+      y="82"
+      fill="#E8E3D9"
+      font-size="38"
+      font-weight="600"
+      letter-spacing="4"
+      text-anchor="middle"
+    >LANGUAGE</text>
+
+    <g fill="#121517" stroke="#E8E3D9" stroke-width="3">
+      <rect x="416" y="232" width="32" height="36" rx="4"/>
+      <rect x="512" y="232" width="32" height="36" rx="4"/>
+      <rect x="608" y="232" width="32" height="36" rx="4"/>
+    </g>
+    <g fill="none" stroke="#E8E3D9" stroke-width="3" opacity=".78">
+      <path d="M528 268V298M528 298L482 332M528 298L574 332"/>
+    </g>
+    <g fill="#121517" stroke="#71A5B5" stroke-width="3">
+      <circle cx="528" cy="298" r="8"/>
+      <circle cx="482" cy="332" r="8"/>
+      <circle cx="574" cy="332" r="8"/>
+    </g>
+
+    <text
+      x="528"
+      y="403"
+      fill="#E8E3D9"
+      font-size="38"
+      opacity=".68"
+      text-anchor="middle"
+    >COOL</text>
+    <text
+      x="528"
+      y="445"
+      fill="#E8E3D9"
+      font-size="38"
+      opacity=".68"
+      text-anchor="middle"
+    >Compiler</text>
+  </g>
+
+  <g id="layer-data" aria-label="Data layer, Database Prototype">
+    <text
+      x="808"
+      y="82"
+      fill="#71A5B5"
+      font-size="40"
+      font-weight="700"
+      letter-spacing="4"
+      text-anchor="middle"
+    >DATA</text>
+
+    <g fill="#121517" stroke="#E8E3D9" stroke-width="3">
+      <rect x="692" y="202" width="104" height="112" rx="3" opacity=".46"/>
+      <rect x="708" y="188" width="104" height="112" rx="3" opacity=".7"/>
+      <rect x="724" y="174" width="104" height="112" rx="3"/>
+    </g>
+    <path d="M740 222H812M740 250H812M740 278H786" fill="none" stroke="#E8E3D9" stroke-width="3" opacity=".54"/>
+    <path d="M724 250H828" fill="none" stroke="#C39A61" stroke-width="6"/>
+
+    <g fill="none" stroke="#71A5B5" stroke-width="4">
+      <path d="M876 214V250M876 250L846 282M876 250L906 282"/>
+    </g>
+    <g fill="#121517" stroke="#71A5B5" stroke-width="4">
+      <circle cx="876" cy="214" r="10"/>
+      <circle cx="846" cy="282" r="10"/>
+      <circle cx="906" cy="282" r="10"/>
+    </g>
+
+    <text
+      x="808"
+      y="403"
+      fill="#E8E3D9"
+      font-size="40"
+      font-weight="600"
+      text-anchor="middle"
+    >Database</text>
+    <text
+      x="808"
+      y="447"
+      fill="#E8E3D9"
+      font-size="40"
+      font-weight="600"
+      text-anchor="middle"
+    >Prototype</text>
+  </g>
+
+  <g id="layer-identity" aria-label="Identity layer, AuthKit">
+    <text
+      x="1122"
+      y="82"
+      fill="#71A5B5"
+      font-size="40"
+      font-weight="700"
+      letter-spacing="4"
+      text-anchor="middle"
+    >IDENTITY</text>
+
+    <g fill="none" stroke="#E8E3D9" stroke-width="3">
+      <circle cx="1026" cy="250" r="14"/>
+      <circle cx="1242" cy="250" r="14"/>
+      <path d="M1090 176V224M1090 276V324"/>
+    </g>
+    <path d="M1090 224H1110M1090 276H1110" fill="none" stroke="#71A5B5" stroke-width="5"/>
+    <polygon
+      points="1110,230 1130,250 1110,270 1090,250"
+      fill="#121517"
+      stroke="#C39A61"
+      stroke-width="4"
+    />
+    <path d="M1130 250H1242" fill="none" stroke="#71A5B5" stroke-width="5"/>
+
+    <text
+      x="1122"
+      y="425"
+      fill="#E8E3D9"
+      font-size="44"
+      font-weight="600"
+      text-anchor="middle"
+    >AuthKit</text>
+  </g>
+
+  <g id="layer-services" aria-label="Services layer, reserved for future work">
+    <text
+      x="1410"
+      y="82"
+      fill="#E8E3D9"
+      font-size="38"
+      font-weight="600"
+      letter-spacing="4"
+      text-anchor="middle"
+    >SERVICES</text>
+
+    <g fill="#121517" stroke="#E8E3D9" stroke-width="3">
+      <circle cx="1308" cy="250" r="18"/>
+      <circle cx="1382" cy="214" r="18"/>
+      <circle cx="1454" cy="270" r="18"/>
+    </g>
+    <path
+      d="M1454 298C1408 334 1346 326 1314 278"
+      fill="none"
+      stroke="#71A5B5"
+      stroke-width="3"
+      opacity=".7"
+    />
+    <path d="M1314 278L1314 296L1332 288" fill="none" stroke="#71A5B5" stroke-width="3" opacity=".7"/>
+  </g>
+</svg>
