@@ -1,11 +1,130 @@
-<p align="center">
-  <img src="./assets/profile-ascii.svg" width="100%" alt="Breno Alvarenga profile: monochrome ASCII portrait, backend and cloud stack, current work." />
-</p>
+### `01 / SELF PORTRAIT`
 
-<p align="center">
-  <a href="https://wavern.com.br/">Wavern</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/brenoalvarengaalves/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="./assets/portrait-ascii.svg">Full-resolution ASCII portrait</a>
-</p>
+<pre><small><small><small>
+                                                                                             `                                                                                                        
+                                                                                             ,"` .,                                                                                                   
+                                                                                  `::_/uGk_~/clwppbz;`             ```        `:|w*,                                                                  
+                                                                             `~!+fu+!zTCwu@@m$u#QOpMw_      `__,,,',!!__*i!!|uu$wuw$z*`                                                               
+                                                                          ,~+w$l$@MOfk$G$uCd8QQRmkQwm8u_,*Lv!!uuzl"_+\~|$liJ+*|zXuuuw&amp;x!`                                                             
+                                                                     ``_|uuGGuiCm@QQZQ$d@8NBQm#BRR$EQ8Q@QQOZwzuix0!,:*+uC_+c|u!*wwuYz$Uu,                                                             
+                                                                    _G#O$@wl_vMdu@N0Bp8LCQ@RQQ@@8pw@Q@8Q8#cTlLlzw!"!*!!uulZ+!!,!uhilJuuwuv\!,`  `                                                     
+                                                                 ._zQBcw@MM++wkwQ@$b@@@0@8QQQ@Q$uQ0pO0QRRw*xwpG*,,:!l|*\cJuc!*!lTuv*luuuwucX$Lxuu!'`,:``,.                                            
+                                                             .!uGG8#NG8MQpQNQN@8@@QQQQQQQQQQQ@ZRMb!!pB@QQGuh8uY/:,!*xL!*!!l/zuzJTCui|zuwYCYuJTfzuuwulJuuCC!`                                          
+                                                 ,*iJc%@RwcpOMMBuBMOwfG@@Q8QQQQ8QQQQQQ8QQQ8QQQ@NM@c!wOQQQRQR8@RwLu&amp;C:"l+!/*wxlzCzCLCfzlJuuufzuuuJiCCClLcxwwT\,                                        
+                                             `!wMNMMMMQQ@Qw0h@kl*QMw@Qwk@B@@@E8QQQQQRQ@O8R80Q@Bm_wu880QQQQ8ROEkUki|!**:,_*\+*|CLcuTlCC+JcCuCzcTzui+CuTxJLilCuu+:                                      
+                                            'UQ0wzQpwGuM!!uM@MQUNClu!8$!*ZN@@mQ@RQQ8QQ@R8m0Q@@M8wu*BRQ@@Q@@p$u++`,lL!,!Cw:'*lxlCllYxiCTiJuuLziizYlizCxTJl_luJCv+c!:`                                  
+                                          `c$M8w08f!#ulC,wmM8l+Xu@u.,!z"+RMwU@QQQQQQQQ8Q@@BNRuw$M@;CkMQ8GQRQR@8,^|;`   _,,,T!TfllLJLTzilvL*zil+llxcciLviCvzcLzvLfuuC:                                 
+                                         ,w0R#GMMC+:/!+!!mM0JuQ*'0`,+mQ!uMMON@R@@RmQQQQ@8wRCu!uMk**$!*OMMOf|Rw:,+'.:    _ :Jc!CLilLzxTLzLz*lJLvCl\cxlicccc*ccclz++cLu|. ``,`` `                       
+                                        ^Mkbw!*M: `:f.cMGwd!|88w!iGM0CwhM@@MR#cG@ON@QQQ@08M$,XM: !uu !MMu|,c!` l*,  `*:!'.,uCLLcLczL\LlclzCJiLllcL+lzzLllCccclcLl*lc+zx!!\ilz+/!`                     
+                                   !`,c:JMRzb+MU` iZMwz|:MmQM@NulM@8CMMQQ@MQiwwMwcwM@@@GMwu!uwC``Nc,`MMMQc,c#wuk:!u:_+l|!|+lczc*cxJu*/JzlcvJz*JLiizlvJLlcc+TTLlvicvizziJl|ccc+cCl*:                   
+                                   RN@@MM0Gl"'z8w8u,:0$_k0GN8*f#Mwz.!MMQ*T8l,,cMhcw&amp;MM@hQ`Cc_L8c\N8k.mQZM" ,$m,  `^,"!JhJcCzv/\lxilCc_iLvvzlJ|iTYLic|\\\+zvicTvLilczcLz|cJ+zilicLCz*,'                
+                                   cpMul@M!^k@0CbM! `LMMMMMBm!!@M\/\N&amp;ME  *_^CM@REw:m'.M8``bmR:,iLZ8,u8 TR`,cMw   `',;fJJiizcu\|/LfLclllfLLlLic+llLCc:'*/c/c*|YCTcic*+ilcLLLczLLzlzuCu_`              
+                                   wTRM8wBzLuu__uMc|_!+M@ww;$|.-M!_::J0MwQMcc!uz*l_  `Gb~, `+MC_lNmu_JM' Z8 `|G+'.````uuufzCCL!_|Cvv+llLJLziilc+lxizz+cccll*LiTc|iLvll+|zzcxlfT+iilLfzfc'             
+                                   G8&amp;Q8@Mu!uRELJ*cC*i*Bmhh  :u !k_^BBbRQufi0uu`Tv`::mw;     :MucMuw_,Cm!./ihblu, ``` ,cliiC!cY|_*TJlLlLLvzJLizJJviJlL+c/iiJ*cvxclvuzilicvclllzcc**ilCCz,             
+                                   !w80Q8C!*8c!!@\*!!:\.     ,  l_*GZ!BwMhMkL_` ^:`\wG        w@:"cQl``@c  LMNu cl  ,  !l*+vv*CLC!Lll++llJxLlJLTvLYic!vuuzLuzc*!!!!CCli*lLLc|Ll+Cx\cilcuc`            
+                                   lwuc"i:_,_;:!zll!xw_            !z!lp+ww\_M!_cMC+M.    `   ,R, ,G$*'0w``'!@M~ w_ :/ `l,;*!,*zC*+iT|!!!!!Yv+lzTzLiL+CCiLzTYT+:_,`\cCicli+lllucizzlxzcL/             
+                               !GMMQ$wUu!pw::.!!_lkX,,+     ``   `.'`uR|l`~,'v~!!*NM0:         !M`uQuum!w !*``|O:.G: ^!``, ``",|TC*i!_J*!_!\lcJccizJxiu*_|xuC\Lci:,l*czCJLLviLziLlliLxzxL"            
+                             l\wMMQ!_x!.+R,cT.,wZ+    .'+` !:  ``  ``'l-` `|cp8$vCkz:          `\ _N~ :/@!!'` ,_0ClZ:  ' `,__!_,,+uu!*c* :cc~!TxLxl*,-xClcl~``"lCc|+izliCLcllxJcicliliJzfl`           
+                             :fMJ;!:!CQwwJ**_ ,!d@'``::`  !`     ``u!:``wlTu*`_,!MMl             `,*:,u,uRw`l~: ,wCwL!,  `'|l`'``:lCT*!z:',!*!!Jxc!c+`:wJC*!!l_!LilciizLilzCzzLzJLzzlYTYL/`           
+                           `: cUw*c!*wMMT!,   :!cO_|z~c!Lu@  ``  JJ!il`|*c$U!uz`|MMMu    ``      ,*zL,_`^~L|*u8, ^x*wGu|'   *~,,/|\zJT*_w! `^|!_lu!_Tl,!wJuu+!*izTCziLLziJL+zzJvJllCzJcliuC;          
+                .+    `_!u88@@M/`+\_w!ii$` C`.*,:^^c!^,!u`:  :``:w`z:`!!`:!;.:^GMR\,L!   ,X`       '8!-~,*cl|uC_` ;,~uu_\\+'!_:,c*xci:;|Y^ `  *ccc!zi\x_CJlLuCc+LCllzvllvzc+cTzzCzTlLvvlL+iu!         
+                     OLw$,-!X` ` `UMk`L:c`:!  ,;*l`,\R@:`.,  uw^`  T'vM*',,|_c .Mi,`+M!*  .`       *:*,__zf*~,^|,`';**uu" .:  `_l*+L!vYl!`.'`,lC*`!c!!iiJvzL+xlllzflJclLuliciliizJLlClcliLclC_        
+                  |_ ,u, :_8M|!``!:!`   +. `w8**. ,XuR:`!;TC".u@u,:.|Gu, ,|+l`, `   `c            ,c.!;,vicmL:,,^:_!luCcz_    ,!_!+L!c!+_  `LucL_`:Y:|l!lCzYclYlccJluYxvvilclilccllilc\z!\c|L;        
+                   \wulc,,!uk*Q.u!     :Lw_@f*!`` :MM*;_l`.,+wM$:!$!.l  ,G,.,         `           :*|u!z#@uJw!~:,!!:!_vwl+:    ` ``,!|*!i``+uY!_```',|+L+llzYczz,`*Y+cCvc|clilizLlL!ccl!|lzi!`        
+                    _MMNGw_L!!N,`    ` ,!:MM:kL!T:'!c:CM" .!*ic:` "Tc   *,  .,        Lc      :  !w!w^:zu0@Q@u|_c:``!!,*zcLc*' ._    .,  `*!"+z+:'  ,/LLlcilCzLCl~_***+xflLiLlcizlicf!+;\cc,          
+                     `_wzc,c,!, ``   ,``ww|: , \pcip|TcCu!_lG|!`  '*,   :   `    `               `*!*UQkb\!TpQ8$l|z!'_!,!|\c:_` `;    ` .l,:,,"!*:,,~cuczll+c+lJ+\v+*cccvlllcl\c\*!Jfl!|/|J^`         
+                 ' `  lBQkBu `_,0.   :_!,uu!,X,   _i!_'c!   ` ``. `,    ` ,'     `,:!`           cM@iuMQ@U!;cTuwuwuzl!_,'+;!!,`        `!``  ./c*:!::iCclc|LL*_+z|vc_vLLCLJllzcc!`*l!lTiccJ!'         
+                `JuRwRR@ML,, ,w!,    ^: ^c ,cM*``"u+`,,       `"\  `      :  `  c$/0_    `   `_u Uu!cC*RQM$|,.!~,!lLzuu+:`*_*!'.,`    `.,.:`  `,uL! `'!cCfl\ci+!:''!cJfzxcczc!`` ,zul+|+iiuc`         
+         `:,     \&amp;@RMQ0#0Qv :       ,  `c,;&amp;$.wi+: ,         :!        .Yw- `,^MZ#!          _*'w+!\:'!M@8B0c, ,' `._lww\^*\*!*+'.:``` :*+,  * ,!xlc  `,,lxcLl|\\!*^!*!*+!;!c\viuJLllcTzzu_          
+          !+ ,c_^Q!^`uEQM8M8 u`      `   !,`` ,!C.    `w`     Q~   `*   *w\  `hxl@!        +MR  $MOl*!!_lMMuLC0pu_     `!ul*!|c!_,'+c! .:`   ``  `:uc   `,_!/*'*lc!_!_zcccciLLJiviLliL\clu!`          
+           uMY^.lu~  ,i!0$M!          `` ,!. \N!. `, 'i`     .L'    ,  `!QM. u#zQ~       iMMMw;wc0@Mk,,`,MBu:` .!fv,``**__c+``~|lcl+*!':` ,    .` ,:*,       .**!!licClc|+llCiTLLczvlvL*v+!,.         
+           +:  !~.,` \!cl`_`    !^_c:` ``,_. ,f ,`       ,          `  `!Eu*uMMk       ,k@RNwupk@@@#RQu::wMM__:   ,u*|\.``!!ivccLl_~~.  . :        ,~,  ,_|'._*cc*!!cCx!*+c+l|lzzxCvvLcll++!\,        
+      ~     `,,+*w&amp;!`  _,~'    !,v!     .l.  z,       `  `      `      .':c!cux      ,wMM@Ek0MQGJuMM@b8&amp;$LuMZc*,,_llcciJzu+*_~!!lC!__'.::',        v'  ```*_cxu|zl\,+x!:.,!+l_!lJlvcLLcilcc|*x!`      
+      u\    ;`:,*Q0"          `",,    `  u, !_       `          "    ` .             :w!!%Qw*zk!!`!@MuM@O0ibC.`|wCzzl*!_*|!_^_,:,`        `      . `,   |:`_l|!+*_\,:l\!^:_~~cJ++Cz|ilcLLL!|+!!_:     
+       vw/`  ,uNM$$$`      ` `uu,,    C: ;``c `   :,          `      ` _.           .`!!lz_+JwJwzYluMm8ORMwJwc,__,,,~c!+u_,:;,                 _,*`     `\wc!!*lL^"`:*vCu'_cc!l!cLlvuc||Lcz+li, `,    
+         `,`.'TM0dM@!_`   : +wM.      ,h!:_+`     !,        `,_,`  "!* :: !:  *#: *,,!,ucl!` :OUuXGM8kwkGlJmkGC`:.`;*J_!!_'-",,,,:,::,,,_, `   ,*u*!` ``` ,*l\:`:;:. :zz_,:|u+lllCic\zlilc!\*`        
+              `,':~_0w|;    !k/        `:Om:`      ,,    .    v`'Cv_ v``vl'`  cw,  .!   ,c:~*Jwz+uOl8Q$l:\c$uwwu!:.:*z,_:,_:'.,: ``;` ,+~``.c+!|l*Ji+*cTc_``:::_l+_,,:c!"!lzul!!lc!+!lvl,             
+                   _Yx%\;`   +`         ,L+`_       `` `    `ki __   ,u_ E#8~ ,*`^` .!_.`` `+/!*@p+EM@QQBk\*uJ!&amp;p*`!fc:  ``   '!    .\w!`,.+w!_\*/!".,\uL*,`",``_!+!,,zx+~!_!|YcL|c*czc+`             
+                   .!,w*::.,`!`        !**^  ``   `,!      `L:```   ``',' `_u_`_.!'    ,~`,`     `u+@kO0G@wv/uc!LcuL;       `,:::',!CL:  _ul~,++!cT!` `:+c!:   ,` |cc\c*culuv+!c*_^:!+!`              
+                    "l$:^G'` `         .:c!`                 ,    ;_!_.;uMMc  :L`   `.    '.        :_zMCO$$$uxzziu,   ':'`''.''':_+|;  \ZC|LC,!_*vul,`.:cc;,:'.'_uuL|z|+!_!!/+LL_`_*cl_              
+                     /, \J.  .        `~!+,`     ~!,|!`    :!. `,:_*__;w*!_+!__!_!!___^:'  `~:~,uMR. '+u88mQ8kl__!_,,,,.```  ,,^^:\\x_,_cllz!   ~*_cvc!,   `,```,,.':,.".!  !.,,cl_c!|,'              
+                     `:~: : '          :L$l,  ``!w/!|^`._',*!:,_TuC+iuwMMMMMMMBM#@MZuuc!!__. '*uxY0GuuM@Qhv,    _,:^!!*\|cz\**\|+!*J+!lu!,``:      `_L/,```` ' :.  `,' `__!L_ !\|!+u_.                
+                      `::`  \            .;`  ~8pw*uku!    `^!~w$uiEu:'``*CUvzZ*+!!xc\*xuk$u.   `'_'`._:`     `'LuCxcc*,!c\l:,!|\*c!,+l|lc,      !L,`..` `     ",,:_*z,'_wUCi!u*/xCw:                 
+                        `.:.. .          `::'cGuul!;:^'    ``'+!+!!|c|l+uGwXYuTZw_,'`,_!!!_:      `-          ``,_!_:_!` .+!|/!/!cixlc*!*cv:``,+J!`   _!`      ,   ,,:::;!!:!^*uLuic.                 
+                             ,_             .uc~'.,              .___**!!!CuzCuJ!!!!!~'        ` `    `     `       ,^___^*iv+++L!_*\*\!:_:_!!_.      ,i,           ,__, `!u*lwuuu'                   
+                             ``     ``      \z,``-                                 `           `             `    .    ``  ```,,_'``:,       `         ~`       ,    `'*c*,!ucwZu+:                   
+                                 `  `` `:   :!-  ``                                                                  `    ''                           ..      ``   _m\*zY;lc!::`                     
+                                     .,!!. `*_      `                                                                  `      `                        ``    !!` ":z\c|:`',_                          
+                                     x!i`   _,`      `                                                                                                  ,!cC+l_!!",,,,`                               
+                                     _flc`  :``    ` `                                                                   ``                        `'`  !*iCu_`                                       
+                                     :uiz!,`c .`   `                                                                                               `   ,*!zwT'                                        
+                                     `l,c\|ci.    ``                                                                                               ,   !wu$z!                                         
+                                      l,  LLJ:    `                                                                            `                       Jwwk$_                                         
+                                      `l"`L`      .                         `                                                                       ,` UJwZL`                                         
+                                       "* ` ,_                                       `` `                                                           .`~0|zu!                                          
+                                        _\.  '                                      __`                                                               Zm__w,                                          
+                                         `!~:_.                                     ^                                                                 J:,\!                                           
+                                             ,_                                               `                                                      ::|z_                                            
+                                              ~                                         `!uCCC.          '~.                                        :x!.                                              
+                                              !                                     `,!",,'':,:!       .iRwu|` :,                                   *`                                                
+                                              ,`                                      ,___:    `_,`   ` '!!!c!`'                                   `*                                                 
+                                              `:                                         ``              ','.                                   `  +.                                                 
+                                               ;                                              `                                                   '!                                                  
+                                               ,.                                             `                                                   |                                                   
+                                                _                                                                                                :,                                                   
+                                                ,,                                                                                              ,_                                                    
+                                                 :`                                           '.                                                !                                                     
+                                                  ^                                            ,!,    `,`:,`                                   !`                                                     
+                                                   _                          ``` `         ``           `'_!_~.                              *,                                                      
+                                                   `_                         ,:,```` `,^:,`':/!!!_!!;!!!:,```^x_`                        `  !"                                                       
+                                                     _                       `+i\!l\|!*_,`-,    :_,,^:,:+*uTlzzuJ!*c:.                      ::                                                        
+                                                      :`                                 ` `` ':!_`, ```- _~`:~_!:,'                       _,                                                         
+                                                       :.                                       ``                                       :!,                                                          
+                                                        ,:                                    ```   `                               . ` cC`                                                           
+                                                         `_                                    .`   `                                  Jl^:                                                           
+                                                           _                                                                         `+w` /,                                                          
+                                                           "                                                                         _*u   |`                                                         
+                                                          :U`                                                                     ."_!p"   `|                                                         
+                                                         _m@:                                                                   _c_!!Uc     '!                                                        
+                                                       ,uG$kL                                                                 !|!.,_8l       `!`                                                      
+                                                      ,u$wxCz                                                               ,|:  ,CQ!          !`                                                     
+                                                    `*XUwlf!""                                                            __,  ,\ww`            *`                                                    
+                                                   `lhZLlu,  *                                                         '!_`  `\uQ!               _.                                                   
+                                                  :ukv\l$,   *                                                       !!:   `,uM$,                 ;.                                                  
+                                                 !ZZv*CU,    !,             ``                                    :!!.   ,!c8w*`                   !|!,                                               
+                                               `\wkl!uu`     :!               `                                ,!!:     -*$QT` `                    _:_/!`                                            
+                                              `|uh!`iC        *                                            '_!!_      ` i8l`   .:                    -``,^_`                                          
+                                            `!Jcl` *c``,      _                                      ``,,~_,         `|pw` ``   ,`                   ! `_``/,`                                        
+                                       `,_|uG!|\  \c   ,      ,                                                     :RQl!__,      `                  '` `   _/!:,`                                    
+                                 .:_~":_^!$$":;` !+    `                                                          `CQU!` `'!:`  `                    cc.'`       :*!^,                                
+                           `,;;^_,` .:+u$b|`,_` !\     ._                                                        -kUJ*!,                            _u`!,,           `,::,`                           
+                       ';^_^':!!Cl\z$w_*Ll`,*` ,,       !`                                                      l8w+*'',                           ,u!'".,`              .!!!,                        
+                  ,!\CuJxuwwvx\!c!+/\,`:!,`:  _"        :l                                                    ;R8w_,:!;. `                        `0J\i+i*`                  `,":^:                   
+             ._*xwuC+~,_*,.*!*+` `,,      .  !c          *,                                                 `uBZ!_.'`,''                          cl|u+!CmXu;                     .;"::`              
+</small></small></small></pre>
 
-<!-- Both SVG illustrations contain only text characters, with no embedded photograph or image raster. -->
+### `02 / PROFILE`
+
+# Breno Alvarenga
+
+`BACKEND ENGINEER / RIO DE JANEIRO, BRAZIL`
+
+```text
+$ whoami
+Backend architecture, secure SaaS, cloud infrastructure and applied AI.
+
+$ tree ./stack
+|-- backend    Java / Spring Boot / REST APIs
+|-- data       PostgreSQL / Redis / SQL
+|-- cloud      Linux / Docker / Kubernetes
+|-- delivery   CI/CD / GitHub Actions
+|-- security   OAuth2 / OIDC / Automated Testing
+`-- applied-ai LLM Integrations / RAG / Workflows
+
+$ current_work
+Wavern SaaS / AuthKit / Compilers / Databases / Systems
+```
+
+**Layers:** `MACHINE → LANGUAGE → DATA → IDENTITY → SERVICES`
+
+[Wavern](https://wavern.com.br/) · [LinkedIn](https://www.linkedin.com/in/brenoalvarengaalves/) · [Portrait as plain text](./art/portrait-original.txt)
