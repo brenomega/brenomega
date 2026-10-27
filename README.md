@@ -1,26 +1,11 @@
 <p align="center">
-  <img
-    src="./assets/computing-layers.svg"
-    width="100%"
-    alt="Computing abstraction layers connecting machine architecture, language processing, data storage, identity and backend services."
-  />
+  <img src="./assets/profile-ascii.svg" width="100%" alt="Breno Alvarenga profile: monochrome ASCII portrait, backend and cloud stack, current work." />
 </p>
 
-# Breno Alvarenga
+<p align="center">
+  <a href="https://wavern.com.br/">Wavern</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/brenoalvarengaalves/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="./assets/portrait-ascii.svg">Full-resolution ASCII portrait</a>
+</p>
 
-Software engineer focused on backend architecture, cloud infrastructure
-and production-oriented software quality.
-
-I build secure SaaS services and applied AI integrations while studying
-the layers beneath modern applications, from databases and compilers to
-computer architecture.
-
-**Backend** · Java · Spring Boot · REST APIs · PostgreSQL · Redis · SQL
-
-**Cloud & delivery** · Docker · Kubernetes · Linux · CI/CD · GitHub Actions · Observability
-
-**Security & quality** · OAuth2/OIDC · Authentication · Authorization · Automated Testing · Testcontainers
-
-**Applied AI** · LLM Integrations · AI-assisted Workflows · Retrieval-Augmented Generation
-
-**Selected links** · [LinkedIn](https://www.linkedin.com/in/brenoalvarengaalves/)
+<!-- Both SVG illustrations contain only text characters, with no embedded photograph or image raster. -->
